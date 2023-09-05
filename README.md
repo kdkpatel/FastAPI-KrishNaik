@@ -1,2 +1,1 @@
-# FastAPI-KrishNaik
-Learning
+# FastAPI
